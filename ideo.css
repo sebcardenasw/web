@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .big-red-button {
+    background-color: red;
+    color: white;
+    padding: 40px;
+    font-size: 48px;
+    border: none;
+    border-radius: 16px;
+  }

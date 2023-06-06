@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+  }
+ 
+  .big-green-button {
+    background-color: rgb(150, 241, 150);
+    color: rgb(197, 250, 184);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+  }

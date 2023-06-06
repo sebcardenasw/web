@@ -1,0 +1,11 @@
+.center {
+    text-align: center;
+  }
+  .lutton {
+    background-color: rgb(149, 116, 116);
+    color: rgb(197, 250, 184);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+  }
